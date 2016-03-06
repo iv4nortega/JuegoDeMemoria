@@ -8,7 +8,7 @@ import UIKit
 
 /*Rango de 0 a 100*/
 
-var numeros =  1...100
+var numeros =  0...100
 
 let divisible : Int = 5
 let parImpar : Int = 2

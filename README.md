@@ -1,2 +1,2 @@
 # JuegoDeMemoria
-Curso Swift Mini reto, semana 2
+Swift Mini
